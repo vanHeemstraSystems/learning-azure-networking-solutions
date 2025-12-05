@@ -1,6 +1,8 @@
 # learning-azure-networking-solutions
 Learning Azure Networking Solutions
 
+- [References](./REFERENCES.md)
+
 ```
 learning-azure-az700/
 ├── README.md
